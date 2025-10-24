@@ -1,4 +1,4 @@
-# TimSweenny
+# TimSweeney
 
 Plným jménem Tymothey Dean Sweeney je americký videoherní vývojář, ale hlavně je znám jako zakladatel [Epic Games](https://en.wikipedia.org/wiki/Epic_Games) a tvůrce [Unreal Enginu](nuhttps://en.wikipedia.org/wiki/Unreal_Engine).
 
@@ -13,4 +13,5 @@ Později začal spolupracovat na Unreal Engine se zapojil do projektu Unreal. Po
 - Zakladatel **Epic Games**
 - Tvůrce **Unreal Enginu**
 - Vývojář ZZT, [Jill of the Jungle](https://en.wikipedia.org/wiki/Jill_of_the_Jungle) a [Unreal](https://en.wikipedia.org/wiki/Unreal_(1998_video_game))
+
 - vyhrál **vývojáře roku** na Game *Developers Choice Awards*
